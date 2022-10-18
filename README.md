@@ -1,5 +1,5 @@
 # Asset Server
-<a href="https://jtdev.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=19ZZ2aDajCwqqMiawXZRcjEKScT1z5657" alt="JTDEV" width="100%" height="auto"/> </a> 
+<a href="https://jtdev.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://jtdev-asset-server.herokuapp.com/assets/logos/png/logo-color.png" alt="JTDEV" width="100%" height="auto"/> </a> 
 This website serves as a page for recruiters, hiring managers, or potential clients to view in order to learn about me, contact me, and see my experience/prior work. It was created with React and designed and created by myself from the ground up.
 
 ## How It's Made:
